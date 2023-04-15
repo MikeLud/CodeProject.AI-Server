@@ -8,6 +8,7 @@
 		<AssemblyName>CodeProject.AI.Explorer</AssemblyName>
 		<OutputType>WinExe</OutputType>
 		<TargetFramework>net7.0-windows</TargetFramework>
+		<EnableWindowsTargeting>true</EnableWindowsTargeting>
 		<Nullable>enable</Nullable>
 		<UseWindowsForms>true</UseWindowsForms>
 		<ApplicationIcon>favicon.ico</ApplicationIcon>
