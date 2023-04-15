@@ -42,7 +42,7 @@
 # clear
 
 # verbosity can be: quiet | info | loud
-verbosity="quiet"
+verbosity="loud"
 
 # Should we use GPU enabled libraries? If true, then any requirements.gpu.txt 
 # python packages will be used if available, with a fallback to requirements.txt.
